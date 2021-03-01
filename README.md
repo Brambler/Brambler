@@ -3,9 +3,8 @@
 [![Website](https://img.shields.io/website?label=Brambler.online&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://brambler.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ImTheBramble?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Brambler&screen_name=ImTheBramble)
 
-## I'm a Full-Time Student at West Virginia University
+## I'm a Full-Time Student // Endpoint Management Specialist at West Virginia University
 
-- 🔭 I’m currently looking for a job, Check my [resume]!
 - 🥅 2020 Goals: Learn as much as possible
 
 ### Spotify Playing 🎧
