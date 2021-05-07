@@ -1,11 +1,10 @@
-### Hi there, I'm Jordan - aka [Bramble][website] 👋
+### Hi there, I'm Jordan or better known as Bramble 👋
 
-[![Website](https://img.shields.io/website?label=Brambler.online&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://brambler.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ImTheBramble?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Brambler&screen_name=ImTheBramble)
 
-## I'm a Full-Time Student // Endpoint Management Specialist at West Virginia University
+## Client Platform Engineer at West Virginia University
 
-- 🥅 2020 Goals: Learn as much as possible
+- 🥅 2021 Goals: Learn as much as possible
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/thebramble)
@@ -39,8 +38,6 @@
 
 </details>
 
-[website]: https://brambler.online
 [twitter]: https://twitter.com/ImTheBramble
 [instagram]: https://instagram.com/ImTheBramble
 [linkedin]: https://www.linkedin.com/in/jordan-braham-b804b87b/
-[resume]: https://brambler.online/resume
