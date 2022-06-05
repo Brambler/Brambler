@@ -4,8 +4,6 @@
 
 ## Client Platform Engineer at West Virginia University
 
-- 🥅 2021 Goals: Learn as much as possible
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
