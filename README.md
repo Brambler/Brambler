@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Client Platform Engineer at West Virginia University
 ----------------------------------------------------
 
-I use github to share projects that I am working on in my homelab environment. Most projects are game server related, I am however learning some more FullStack/Devops skills at the moment.
-
 * 🌍  I'm based in West Virginia
 * ✉️  You can contact me at [jordanbraham@outlook.com](mailto:jordanbraham@outlook.com)
 * 🚀  I'm currently working on [brambler.tools](http://brambler.tools)
