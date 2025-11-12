@@ -6,4 +6,4 @@ Client Platform Engineer at West Virginia University
 
 * 🌍  I'm based in West Virginia
 * ✉️  You can contact me at [brambler@brambler.tools](mailto:brambler@brambler.tools)
-* 🚀  I'm currently working on [brambler.tools](http://brambler.tools)
+* 🚀  I'm currently working on [brambler.tools](https://brambler.tools)
